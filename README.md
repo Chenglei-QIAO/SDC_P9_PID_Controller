@@ -59,6 +59,6 @@ Following this method, I tried to manually interate with different parameters an
 3. D: 3.
 
 and The result looks good. The car was quite stable during the simulation and didn't leave the driable portion of the track.
-![The screenshot of simulation](./images/pid.png)
+![The screenshot of simulation](pid.png)
 
 The issue at the moment is that the car can only drive stably at about 30mph, and perhaps what needs to do next is to tune the parameters to get the car driving faster.
