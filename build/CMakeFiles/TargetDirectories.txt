@@ -1,3 +1,0 @@
-/mnt/e/Udacity/SDC/09_PID_Controller/Project/build/CMakeFiles/edit_cache.dir
-/mnt/e/Udacity/SDC/09_PID_Controller/Project/build/CMakeFiles/rebuild_cache.dir
-/mnt/e/Udacity/SDC/09_PID_Controller/Project/build/CMakeFiles/pid.dir
